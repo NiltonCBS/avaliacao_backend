@@ -144,7 +144,7 @@ GET /conversations/{conversationId}/messages
   }
 ]
 ```
-##🗄️ Banco de Dados
+## 🗄️ Banco de Dados
 
 O projeto utiliza H2 in-memory, com dados de teste carregados automaticamente: 
 Usuários pré-cadastrados: 
